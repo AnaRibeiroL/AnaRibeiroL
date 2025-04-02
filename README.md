@@ -11,10 +11,6 @@
  Com um olhar atento para a eficiência e a inovação, desenvolvo soluções que ajudam a transformar dados em insights valiosos. Tenho expertise em ferramentas como Power BI, MicroStrategy e SQL, o que me permite criar análises detalhadas e relatórios que auxiliam equipes e empresas a tomarem decisões mais informadas e estratégicas.
 
 
-📊 Meu Objetivo no GitHub
- Aqui, compartilho projetos e colaborações que refletem minha paixão por dados e tecnologia. Estou sempre aberta a aprender e trocar experiências, buscando sempre aprimorar minhas habilidades e contribuir para a comunidade.
-
-
 Vamos conectar e transformar dados em ações! 🚀
 
 <p align="left">    <a href="https://github.com/AnaRibeiroL?tab=repositories&sort=stargazers">        <img 
