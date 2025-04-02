@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
- Sou uma apaixonada por tecnologia e dados, natural de Brasília e com 38 anos de vida e aprendizado. Formada em Análise e Desenvolvimento de Sistemas pela UCB, tenho construído uma carreira sólida focada em controle, gestão, mensuração de indicadores e análise de dados.
+ Sou apaixonada por tecnologia e dados, natural de Brasília e com 38 anos de vida e aprendizado. Formada em Análise e Desenvolvimento de Sistemas pela UCB, Pós graduada em Gestão Pública, Gestão de Recursos Humanos, tenho construído uma carreira sólida focada em controle, gestão, mensuração de indicadores e análise de dados.
 
 
 🔧 Minhas Especialidades
@@ -15,31 +15,27 @@
 
 Vamos conectar e transformar dados em ações! 🚀
 
-<p align="left">
-    
-    <a href="https://github.com/AnaRibeiroL?tab=repositories&sort=stargazers">
-        <img 
+<p align="left">    <a href="https://github.com/AnaRibeiroL?tab=repositories&sort=stargazers">        <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+            src="https://custom-icon-badges.demolab.com/github/stars/AnaRibeiroL?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"        />
     </a>
-    <a href="https://github.com/AnaRibeiroL?tab=followers">
-        <img 
+    <a href="https://github.com/AnaRibeiroL?tab=followers">        <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AnaRibeiroL?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+            src="https://custom-icon-badges.demolab.com/github/followers/AnaRibeiroL?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"        />
     </a>
 </p>
 
 ---
 
-### 🤖 Analista de Dados
+###🤖 Analista de Dados
 
+- Power BI
+- MicroStrategy
+- SQL
 
-
-### 📊 Estatísticas
+###📈 Estatísticas
 
 <p>
   <img 
@@ -49,10 +45,9 @@ Vamos conectar e transformar dados em ações! 🚀
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AnaRibeiroL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Linguagens" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaRibeiroL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
