@@ -1,6 +1,6 @@
 ### 👩🏻‍💻 Ana Cristina Lima
 
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacristina-ribeiro)
 
 **`Analista de Dados`**
 
@@ -27,26 +27,14 @@ Vamos conectar e transformar dados em ações! 🚀
 
 ---
 
-###🤖 Tecnologias que uso no dia
+![AnaRibeiroL GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaRibeiroL&show_icons=true&theme=dracula)
 
-- Power BI
-- MicroStrategy
-- SQL
+## Tecnologias que uso no meu dia
 
-###📈 Estatísticas
+<div style="display: inline_blok"><br/>
+ <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img align="center" alt="Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</div><br/>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AnaRibeiroL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="GitHub Linguagens" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaRibeiroL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+
+
