@@ -29,7 +29,7 @@ Vamos conectar e transformar dados em ações! 🚀
 
 ---
 
-###🤖 Analista de Dados
+###🤖 Tecnologias que uso no dia
 
 - Power BI
 - MicroStrategy
