@@ -6,6 +6,8 @@
 
 Sou apaixonada por transformar dados em informações valiosas para negócios. Com formação em Análise e Desenvolvimento de Sistemas e uma sólida experiência em análise de dados, utilizo ferramentas como Power BI e SQL para extrair, tratar e visualizar informações que orientam decisões estratégicas. Meu objetivo é transformar dados complexos em insights claros e acionáveis, promovendo a inovação e a eficiência organizacional.
 
+Comecei minha carreira supervisionando pequenas equipes. Hoje, lidero operações estratégicas com indicadores complexos e suporte sistêmico. A chave? Pessoas, processos e propósito alinhados.
+
 Vamos transformar dados em decisões! 🚀
 
 <p align="left">    <a href="https://github.com/AnaRibeiroL?tab=repositories&sort=stargazers">        <img 
