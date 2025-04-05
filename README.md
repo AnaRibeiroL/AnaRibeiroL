@@ -1,8 +1,6 @@
-### 👩🏻‍💻 Ana Cristina Lima
+# Olá! Eu sou a Ana Cristina 👋 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacristina-ribeiro)
-
-**`Analista de Dados`**
 
 Sou apaixonada por transformar dados em informações valiosas para negócios. Com formação em Análise e Desenvolvimento de Sistemas e uma sólida experiência em análise de dados, utilizo ferramentas como Power BI e SQL para extrair, tratar e visualizar informações que orientam decisões estratégicas. Meu objetivo é transformar dados complexos em insights claros e acionáveis, promovendo a inovação e a eficiência organizacional.
 
