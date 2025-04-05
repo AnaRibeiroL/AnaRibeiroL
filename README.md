@@ -42,3 +42,11 @@ Vamos transformar dados em decisões! 🚀
 
 - [**Análise de Vendas com Power BI**]
 - Grãos e Gráficos Onde os Dados Contam a História([link-do-repositorio](https://github.com/AnaRibeiroL/ProjotosBI)): Projeto que demonstra análise de dados de vendas, com dashboards interativos e insights para tomada de decisão.
+
+## 🌱 Meus interesses
+
+- Análise preditiva e machine learning
+- Automação de processos de dados
+- Inteligência de negócios (BI) e visualização de dados
+- Ferramentas de código aberto para análise de dados
+- Data storytelling e como usar os dados para contar histórias impactantes
