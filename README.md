@@ -14,10 +14,11 @@ Vamos conectar e transformar dados em ações! 🚀
             src="https://custom-icon-badges.demolab.com/github/stars/AnaRibeiroL?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
         />
     </a>
-    <a href="https://github.com/AnaRibeiroL?tab=followers">        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AnaRibeiroL?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
+    <a href="https://github.com/AnaRibeiroL?tab=followers">        
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://img.shields.io/github/followers/AnaRibeiroL?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
         />
     </a>
 </p>
