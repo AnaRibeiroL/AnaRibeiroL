@@ -1,6 +1,7 @@
 # Olá! Eu sou a Ana Cristina 👋 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacristina-ribeiro)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](anaribeiroacsr@gmail.com)
 
 Sou apaixonada por transformar dados em informações valiosas para negócios. Com formação em Análise e Desenvolvimento de Sistemas e uma sólida experiência em análise de dados, utilizo ferramentas como dashboard-powerbi-atendimento, automacao-relatorios-excel, indicadores-bi-setor-publico para extrair, tratar e visualizar informações que orientam decisões estratégicas. Meu objetivo é transformar dados complexos em insights claros e acionáveis, promovendo a inovação e a eficiência organizacional.
 
@@ -27,7 +28,7 @@ Vamos transformar dados em decisões! 🚀
 
 ![AnaRibeiroL GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaRibeiroL&show_icons=true&theme=dracula)
 
-## Tecnologias que uso no meu dia
+## Tecnologias & ferramentas que uso no meu dia
 
 <div style="display: inline_blok"><br/>
  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -38,10 +39,11 @@ Vamos transformar dados em decisões! 🚀
  <img align="center" alt="Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div><br/>
 
-## 🚀 Projetos em Destaque
+## 📌 Projetos em Destaque
 
-- [**Análise de Vendas com Power BI**]
-- Grãos e Gráficos Onde os Dados Contam a História([link-do-repositorio](https://github.com/AnaRibeiroL/ProjotosBI)): Projeto que demonstra análise de dados de vendas, com dashboards interativos e insights para tomada de decisão.
+- 🔷 **[Dashboard de Produção e Venda de Café - Power BI](link-do-repositorio](https://github.com/AnaRibeiroL/ProjotosBI)**  
+  Visualização interativa com indicadores sobre a produção e comercialização de café no Brasil e no mundo, com filtros por país, ano, tipo de café e volume exportado.
+
 
 ## 🌱 Meus interesses
 
@@ -50,3 +52,5 @@ Vamos transformar dados em decisões! 🚀
 - Inteligência de negócios (BI) e visualização de dados
 - Ferramentas de código aberto para análise de dados
 - Data storytelling e como usar os dados para contar histórias impactantes
+
+- 🧡 Obrigada por visitar meu perfil!
