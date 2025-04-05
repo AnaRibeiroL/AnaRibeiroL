@@ -4,12 +4,7 @@
 
 **`Analista de Dados`**
 
- Sou apaixonada por tecnologia e dados, natural de Brasília e com 38 anos de vida e aprendizado. Formada em Análise e Desenvolvimento de Sistemas pela UCB, Pós graduada em Gestão Pública, Gestão de Recursos Humanos, tenho construído uma carreira sólida focada em controle, gestão, mensuração de indicadores e análise de dados.
-
-
-🔧 Minhas Especialidades
- Com um olhar atento para a eficiência e a inovação, desenvolvo soluções que ajudam a transformar dados em insights valiosos. Tenho expertise em ferramentas como Power BI, MicroStrategy e SQL, o que me permite criar análises detalhadas e relatórios que auxiliam equipes e empresas a tomarem decisões mais informadas e estratégicas.
-
+Sou uma entusiasta de tecnologia e dados, com raízes em Brasília e 38 anos de experiências enriquecedoras. Graduada em Análise e Desenvolvimento de Sistemas pela UCB e em Gestão de Recursos Humanos, além de pós-graduada em Gestão Pública, venho moldando uma carreira robusta que se concentra na excelência em controle, gestão e análise de indicadores. Minha jornada é marcada pela busca incessante de transformar dados em histórias que impulsionam decisões e inovações.
 
 Vamos conectar e transformar dados em ações! 🚀
 
@@ -38,7 +33,6 @@ Vamos conectar e transformar dados em ações! 🚀
  <img align="center" alt="Microsoft_Power_BI" src="https://img.shields.io/badge/Power_BI-FFB848?style=for-the-badge&logo=powerbi&logoColor=white" />
  <img align="center" alt="MicroStrategy" src="https://img.shields.io/badge/MicroStrategy-FF4F00?style=for-the-badge&logo=microstrategy&logoColor=white" />
  <img align="center" alt="Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
- <img align="center" alt="Microsoft_Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 </div><br/>
 
 
