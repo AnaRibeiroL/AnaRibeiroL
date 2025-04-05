@@ -4,9 +4,9 @@
 
 **`Analista de Dados`**
 
-Sou uma entusiasta de tecnologia e dados, com raízes em Brasília e 38 anos de experiências enriquecedoras. Graduada em Análise e Desenvolvimento de Sistemas pela UCB e em Gestão de Recursos Humanos, além de pós-graduada em Gestão Pública, venho moldando uma carreira robusta que se concentra na excelência em controle, gestão e análise de indicadores. Minha jornada é marcada pela busca incessante de transformar dados em histórias que impulsionam decisões e inovações.
+Sou apaixonada por transformar dados em informações valiosas para negócios. Com formação em Análise e Desenvolvimento de Sistemas e uma sólida experiência em análise de dados, utilizo ferramentas como Power BI e SQL para extrair, tratar e visualizar informações que orientam decisões estratégicas. Meu objetivo é transformar dados complexos em insights claros e acionáveis, promovendo a inovação e a eficiência organizacional.
 
-Vamos conectar e transformar dados em ações! 🚀
+Vamos transformar dados em decisões! 🚀
 
 <p align="left">    <a href="https://github.com/AnaRibeiroL?tab=repositories&sort=stargazers">        <img 
             alt="Total de estrelas" 
@@ -38,5 +38,7 @@ Vamos conectar e transformar dados em ações! 🚀
  <img align="center" alt="Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div><br/>
 
+## 🚀 Projetos em Destaque
 
-
+- [**Análise de Vendas com Power BI**]
+- Grãos e Gráficos Onde os Dados Contam a História([link-do-repositorio](https://github.com/AnaRibeiroL/ProjotosBI)): Projeto que demonstra análise de dados de vendas, com dashboards interativos e insights para tomada de decisão.
